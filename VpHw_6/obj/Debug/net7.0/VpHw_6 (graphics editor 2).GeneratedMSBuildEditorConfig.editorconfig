@@ -1,0 +1,39 @@
+is_global = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VpHw_6_(graphics_editor_2)
+build_property.ProjectDir = C:\Users\пк\Source\Repos\graphics-editor-2\VpHw_6\
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/Shape1_UserControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/Shape2_UserControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/Shape3_UserControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/Shape4_UserControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/Shape5_UserControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/Shape6_UserControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/пк/Source/Repos/graphics-editor-2/VpHw_6/Views/ShapeT_UserControl.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
